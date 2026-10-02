@@ -1,0 +1,1 @@
+# BoardScore cover assetsImmutable remote cover assets for BoardScore. Files are named by BoardScore catalog ID and referenced through commit-pinned raw URLs.Assets are append-only. This repository contains no build pipeline, thumbnails, or source-image archive.
